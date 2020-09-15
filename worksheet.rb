@@ -169,12 +169,6 @@ rider_pay_sum.each do |driver, revenue|
   puts "#{driver}: $#{revenue}"
 end
 
-
-# rider_pay_sum = revenue_each_driver(all_driver_info)
-# rider_pay_sum[:cost.each do |driver, revenue|
-#   puts "#{driver}: $#{revenue}"
-# end
-
 puts
 
 puts "The average rating for each driver:"
